@@ -1,0 +1,9 @@
+System Software consists of a variety of programs that
+support the operation of a computer.
+
+The programs implemented in either software and (or)
+firmware that makes the computer hardware usable.
+
+The software makes it possible for the users to focus on an
+application or other problem to be solved, without needing
+to know the details of how the machine works internally.
